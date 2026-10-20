@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img alt="个人资料访问量" src="https://komarev.com/ghpvc/?username=jiuxianzai&label=Profile%20Views&color=0071e3&style=flat" />
+  <img alt="个人资料访问量" src="https://raw.githubusercontent.com/jiuxianzai/jiuxianzai/views/profile-views.svg" />
 </p>
 
 <p align="center">
