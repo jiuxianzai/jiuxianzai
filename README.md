@@ -17,6 +17,21 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+## 开源项目
+
+<p align="center">
+  <a href="https://github.com/liuxing7954/paseo-dsh">
+    <img alt="paseo-dsh" src="https://github-readme-stats.vercel.app/api/pin/?username=liuxing7954&repo=paseo-dsh&theme=graywhite&hide_border=true" />
+  </a>
+  <a href="https://github.com/liuxing7954/paseo-dsh">
+    <img alt="paseo-dsh stars" src="https://img.shields.io/github/stars/liuxing7954/paseo-dsh?style=social" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Paseo × DeepSeek Harness 桥接插件 · 贡献者（3 个 PR 已合并）</sub>
+</p>
+
 ## GitHub 数据
 
 <p align="center">
