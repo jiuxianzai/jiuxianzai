@@ -20,16 +20,14 @@
 ## 开源项目
 
 <p align="center">
-  <a href="https://github.com/liuxing7954/paseo-dsh">
-    <img alt="paseo-dsh" src="https://github-readme-stats.vercel.app/api/pin/?username=liuxing7954&repo=paseo-dsh&theme=graywhite&hide_border=true" />
-  </a>
-  <a href="https://github.com/liuxing7954/paseo-dsh">
-    <img alt="paseo-dsh stars" src="https://img.shields.io/github/stars/liuxing7954/paseo-dsh?style=social" />
-  </a>
+  <a href="https://github.com/liuxing7954/paseo-dsh"><b>paseo-dsh</b></a><br/>
+  <sub>Paseo × DeepSeek Harness 桥接插件 · 我是贡献者（3 个 PR 已合并）</sub>
 </p>
 
 <p align="center">
-  <sub>Paseo × DeepSeek Harness 桥接插件 · 贡献者（3 个 PR 已合并）</sub>
+  <a href="https://github.com/liuxing7954/paseo-dsh/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/liuxing7954/paseo-dsh?style=for-the-badge&logo=github&label=STARS&color=0071E3" /></a>
+  <a href="https://github.com/liuxing7954/paseo-dsh/forks"><img alt="forks" src="https://img.shields.io/github/forks/liuxing7954/paseo-dsh?style=for-the-badge&logo=github&label=FORKS&color=1D1D1F" /></a>
+  <a href="https://github.com/liuxing7954/paseo-dsh/commits"><img alt="last commit" src="https://img.shields.io/github/last-commit/liuxing7954/paseo-dsh?style=for-the-badge&logo=git&label=UPDATED&color=555555" /></a>
 </p>
 
 ## GitHub 数据
